@@ -1,10 +1,9 @@
 #include <iostream>
-#include <string>
 using namespace std;
 
 int main() {
     int x;
-    cout<<"Ingrese un número n: ";
+    cout<<"Ingresar un número n: ";
     cin>>x;
     if (x > 0) {
         int contador = 0;
